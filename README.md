@@ -11,8 +11,8 @@ Lemp stack docker container:
 
  usage:
 
-    docker-compose up -d'
-    browse to http://localhost'
+    docker-compose up -d
+    browse to http://localhost
 
   
 if it's all working correctly you should see these messages:
