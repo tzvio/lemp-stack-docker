@@ -1,4 +1,5 @@
-Lemp stack docker container:
+Basic LEMP stack docker container for local dev
+Contains:
  * php
  * mariadb
  * nginx
