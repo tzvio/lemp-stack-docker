@@ -5,7 +5,7 @@ Lemp stack docker container:
 
  
 
- - configured to get latest version of each part
+ - configured to get latest version of each component
 
 
 
